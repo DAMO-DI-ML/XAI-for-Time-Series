@@ -16,7 +16,7 @@ If you are interested in exploring these opportunity, please reach out to us at 
 - [License](#license)
 
 
-## Our Team: Fostering understanding between people and machines.
+## Our XAI Team: Fostering understanding between people and machines.
 
 ### Team Members
 - **Member 1**: Role - Brief description or expertise
