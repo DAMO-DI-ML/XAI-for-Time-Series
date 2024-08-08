@@ -11,10 +11,6 @@ If you are interested in exploring these opportunity, please reach out to us at 
 - [Team Members](#team-members)
 - [Research Contributions](#research-contributions)
 - [Resources](#resources)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-
 
 ## Our XAI Team: Fostering understanding between people and machines.
 
