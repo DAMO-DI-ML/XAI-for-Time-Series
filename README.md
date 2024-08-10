@@ -81,4 +81,7 @@ cite this: `@inproceedings{yang2021learning,
   - [Interpreting a recurrent neural network’s predictions of icu mortality risk]( https://arxiv.org/abs/1905.09865) Long V. Ho, Melissa Aczon, David Ledbetter, and Randall Wetzel. Journal of Biomedical Informatics, 114(C), 2021
   - [Limesegment: Meaningful, realistic time series explanations](https://proceedings.mlr.press/v151/sivill22a.html) Torty Sivill and Peter Flach. In International Conference on Artificial Intelligence and Statistics, pages 3418-3433, 2022
 - **Structural**:
-  - [Title of Blog/Tutorial 1](link_to_blog) - Brief description
+  - [Temporal fusion transformers for interpretable multi-horizon time series forecasting]( https://arxiv.org/abs/1912.09363) - Bryan Lim, Sercan  ̈O Arık, Nicolas Loeff, and Tomas Pfister. International Journal of Forecasting, 37(4):1748–1764, 2021.
+  - [Ssdnet: State space decomposition neural network for time series forecasting. ](https://arxiv.org/abs/2112.10251) Yang Lin, Irena Koprinska, and Mashud Rana. In IEEE International Conference on Data Mining, pages 370–378. IEEE, 2021.
+  - [Probabilistic transformer for time series analysis](https://proceedings.neurips.cc/paper/2021/hash/c68bd9055776bf38d8fc43c0ed283678-Abstract.html)Binh Tang and David S Matteson. In Advances in Neural Information Processing Systems, volume 34, pages 23592–23608. Curran Associates, Inc., 2021.
+
