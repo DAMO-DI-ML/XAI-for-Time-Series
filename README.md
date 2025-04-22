@@ -7,8 +7,13 @@ This is a hub for our team dedicated to explainable AI (XAI) for time series, pr
 
 If you are interested in exploring these opportunity, please reach out to us at [guxinyue.gxy@alibaba-inc.com] or [linxiao.ylx@alibaba-inc.com]. Let's work together to push the boundaries of XAI!
 
+## Featured: XAI for Time Series Survey
+Our latest work **[Explainable Artificial Intelligence for Time Series](paper/XAI_for_Time_Series_Survey.pdf)** has been released! A comparative review analyzing  state-of-the-art XAI methods for time series, with practical guidelines for method selection and implementation. [Download now](paper/XAI_for_Time_Series_Survey.pdf) to master time series explainability.
+
+  
 ## Table of Contents
 - [Team Members](#team-members)
+- [XAI Survey Paper (New!)](#xai-survey-paper)
 - [Research Contributions](#research-contributions)
 - [Resources](#resources)
 
@@ -18,7 +23,31 @@ If you are interested in exploring these opportunity, please reach out to us at 
 - **YANG, Linxiao**: [linxiao.ylx@alibaba-inc.com]Always the core idea contributor in XAI for time series, interactive XAI and rule learning.
 - **GENG, Linyuan**: [genglinyuan.gly@alibaba-inc.com] Statistics expert, focusing on self-learning to enhance temporal model performance.
 - **GU, Xinyue**: [guxinyue.gxy@alibaba-inc.com] Working on statistics, operations and causal inference; a theoretical proof provider.
-  
+
+
+## XAI Survey Paper
+Our survey **[Explainable Artificial Intelligence for Time Series: A Comparative Survey](paper/XAI_for_Time_Series_Survey.pdf)** presents:
+
+Time series data presents unique challenges for explainability:
+- Strong temporal dependencies between observations
+- Long-term effects and phase shifts from events
+- Need to explain both individual points and subsequences
+- Complex interactions between temporal and feature dimensions
+
+Our survey introduces how four major categories of XAI methods address these challenges:
+- Perturbation-based approaches
+- Distribution-aware methods
+- Decomposition-based techniques
+- Attention mechanisms
+
+Key contributions include:
+- **Comprehensive Analysis**: Systematic review of 50+ XAI methods for time series
+- **Comparative Study**: Carefully designed experiments comparing different methods across various tasks
+- **Practical Guidelines**: 
+  - Guidelines for choosing appropriate XAI methods
+  - Task-specific evaluation metrics
+
+
 ### Selected research
 - **Explain Temporal Black-Box Models via Functional Decomposition**:
 <img width="1563" alt="image" src="https://github.com/user-attachments/assets/a95caa0b-b9f5-413b-81d2-c1984811da6e">
