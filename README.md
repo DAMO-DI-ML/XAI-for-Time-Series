@@ -13,7 +13,7 @@ Our latest work **[Explainable Artificial Intelligence for Time Series](paper/XA
   
 ## Table of Contents
 - [Team Members](#team-members)
-- [XAI Survey Paper (New!)](#xai-survey-paper)
+- [XAI Survey Paper (🔥 New!)](#xai-survey-paper)
 - [Research Contributions](#research-contributions)
 - [Resources](#resources)
 
