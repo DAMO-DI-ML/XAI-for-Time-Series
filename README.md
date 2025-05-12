@@ -8,7 +8,7 @@ This is a hub for our team dedicated to explainable AI (XAI) for time series, pr
 If you are interested in exploring these opportunity, please reach out to us at [guxinyue.gxy@alibaba-inc.com] or [linxiao.ylx@alibaba-inc.com]. Let's work together to push the boundaries of XAI!
 
 ## Featured: XAI for Time Series Survey
-Our latest work **[Explainable Artificial Intelligence for Time Series](paper/XAI_for_Time_Series_Survey.pdf)** has been released! A comparative review analyzing  state-of-the-art XAI methods for time series, with practical guidelines for method selection and implementation. [Download now](paper/XAI_for_Time_Series_Survey.pdf) to master time series explainability.
+Our latest work **[Explainable Artificial Intelligence for Time Series： A Comparative Survey](paper/XAI_for_Time_Series_Survey.pdf)** has been released! A comparative review analyzing  state-of-the-art XAI methods for time series, with practical guidelines for method selection and implementation. [Download PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5225863) to master time series explainability.
 
   
 ## Table of Contents
